@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j0hnwick3lson.github.io/sitemap.xml
